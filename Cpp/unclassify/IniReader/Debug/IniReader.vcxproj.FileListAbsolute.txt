@@ -1,0 +1,2 @@
+E:\mygitee\OpenCL\Cpp\unclassify\IniReader\Debug\IniReader.exe
+E:\mygitee\OpenCL\Cpp\unclassify\IniReader\Debug\IniReader.pdb
